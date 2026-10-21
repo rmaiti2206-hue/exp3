@@ -1,5 +1,5 @@
 
-package com.electricity;
+//package com.electricity;
 
 import java.util.Scanner;
 
